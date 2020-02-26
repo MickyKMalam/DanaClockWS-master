@@ -6,7 +6,7 @@ using System.Configuration;
 using System.Data.SqlClient;
 using System.Data;
 using System.Reflection;
-
+//DB functions
 namespace DanaService3
 {
     public class DBInfo
