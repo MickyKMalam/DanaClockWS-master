@@ -137,7 +137,7 @@ namespace DanaService3
         public string TeurSugChag { get; set; }
         public DateTime TotalWorkTime { get; set; }
         public DateTime TotalTaskTime { get; set; }
-        public string Hefresh { get; set; } //signed
+        public string Hefresh { get; set; } //signed HH:MM
         public string DayDescription { get; set; }
         public string ErrorDescription { get; set; }
     }
